@@ -22,7 +22,7 @@ namespace First_shit
 	{
 		public MainWindow()
 		{
-			InitializeComponent3();
+			InitializeComponent35();
 		}
 	}
 }
